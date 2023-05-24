@@ -1,0 +1,31 @@
+Bill of Materials - B2D Extruder
+
+Belts & Pulleys
+1 x GT2 6mm Socket Pulley 48 Teeth (printed)
+1 x GT2 6mm/10mm Pulley 16 Teeth
+3 x GT2 6mm Pulley 20 Teeth - 16x16mm, M4 set screw
+2 x GT2 6mm Belt 65 teeth - 130mm
+
+Bolts & Nuts
+2 x M3x16 Flanged Button Head Allen Bolt
+5 x M3x12 Flanged Button Head Allen Bolt
+4 x M3x30 (Flanged) Button Head Allen Bolt
+1 x M3x20 (Flanged) Button Head Allen Bolt
+2 x M3x12 Countersunk Socket Allen Bolt
+6 X M3 Standard Hex Nut
+2 x M4x10 Button Head Allen Bolt
+2 x M4x10 Grub Screw Socket Set Flat Point - DIN 916
+2 x M4 Standard Hex Nut
+1 x M6x16 Countersunk Socket Allen Bolt - DIN 7991
+1 x M6 Square Nut - DIN 562
+
+Others
+2 x Gear Drive - stright teeth gear for 1.75, Ultimaker gear for 2.85/3.0
+2 x Cylinder Pin 5x45
+1 x Cylinder Pin 5x30
+6 x Bearing 605ZZ 5x14x5
+2 x Bearing 624ZZ 4x13x5
+1 x Ultimaker 2 Bed Compression Spring 7x9.4x1.2 16mm
+1 x 1mm thick Silicone sheet - larger than 42x42mm (optional)
+1 x 1.8бу NEMA17 Stepper Motor - D Shaft of 5x24mm (optional)
+1 x PTFE Bowden Fitting
