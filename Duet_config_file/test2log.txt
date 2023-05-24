@@ -1,0 +1,3 @@
+2020-06-06 13:02:14 Event logging started
+2020-06-06 13:02:43 Event logging stopped
+2020-06-06 13:03:08 Event logging started
